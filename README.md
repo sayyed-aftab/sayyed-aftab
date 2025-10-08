@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sayyed-aftab
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Data analysis and Artificial intelligence 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Sayyed Aftab
   Follow me on Linkedin 
